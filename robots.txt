@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Disallow: /merci.html
+Disallow: /thank-you.html
 
 # Sitemap
 Sitemap: https://buy-reviews.ae/sitemap.xml
